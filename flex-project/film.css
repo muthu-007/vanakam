@@ -1,0 +1,22 @@
+*{
+background-color:grey;
+color:white
+}img{
+border:5px solid black;
+height:200px;
+width:200px;
+}
+h2{
+color:red;
+ text-align: center;
+}
+div{
+display:grid;}
+
+.box0{
+  grid-column: 1;
+}
+.box1{
+grid-column: 2 / 4;
+}
+
